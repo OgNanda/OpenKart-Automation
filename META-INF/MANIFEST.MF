@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Openkart_automation
+Bundle-SymbolicName: Openkart_automation
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: Openkart.automation
+Export-Package: com.qa.opencart.base,
+ com.qa.opencart.dataproviders,
+ com.qa.opencart.factory,
+ com.qa.opencart.frameworkexception,
+ com.qa.opencart.listeners,
+ com.qa.opencart.pages,
+ com.qa.opencart.pojo,
+ com.qa.opencart.tests,
+ com.qa.opencart.utils
